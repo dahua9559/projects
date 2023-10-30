@@ -1,0 +1,2 @@
+C:\Users\admin\Documents\work\facebookdemo\build\jsb-link\frameworks\runtime-src\proj.android-studio\app\jni\Android.mk
+C:\Users\admin\Documents\work\facebookdemo\build\jsb-link\frameworks\runtime-src\proj.android-studio\app\jni\Application.mk

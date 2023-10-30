@@ -1,0 +1,10 @@
+{
+  "ndkDirProperty": "C:\\sdk\\android-ndk-r17c",
+  "sdkFolder": "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk",
+  "sideBySideNdkFolderNames": [
+    "17.2.4988734",
+    "android-ndk-r16b",
+    "android-ndk-r17c",
+    "android-ndk-r20b"
+  ]
+}

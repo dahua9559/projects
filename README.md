@@ -2,4 +2,4 @@
 
 项目2：puremvc 基础项目
 
-项目3：puremvc websocket 加上 Netty java的基础框架
+项目3：puremvc websocket 加上 Netty java的基础框架：增加了aes的加密的相关操作借鉴代码 https://blog.csdn.net/lingbomanbu_lyl/article/details/125238945

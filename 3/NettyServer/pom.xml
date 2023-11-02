@@ -4,10 +4,14 @@
   <groupId>org.example</groupId>
   <artifactId>NettyServer</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - NettyServer</name>
+    <packaging>pom</packaging>
+    <name>Archetype - NettyServer</name>
   <url>http://maven.apache.org</url>
+    <modules>
+        <module>PoxyServer</module>
+    </modules>
 
-  <dependencies>
+    <dependencies>
 <!--netty 相关操作-->
     <dependency>
       <groupId>io.netty</groupId>
